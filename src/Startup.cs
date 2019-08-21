@@ -40,16 +40,16 @@ namespace src
                 // await context.Response.WriteAsync("Hello World");
                 //  await context.Response.WriteAsync(index);
                 //  this.hellowWorldController.Index();
-                // var bookingController = new BookingController();
-                // var index = bookingController.getString();
-                //  await context.Response.WriteAsync(index);
-                var hellowWorldController = new HellowWorldController();
-                var hashes = hellowWorldController.Index();
-                 await context.Response.WriteAsync(hashes);
-                // app.UseStatusCodePages();
-                // app.UseDeveloperExceptionPage();
-                // app.UseStaticFiles();
-                // app.UseMvcWithDefaultRoute();
+                var bookingController = new BookingController();
+                var index = bookingController.getString();
+                 await context.Response.WriteAsync(index);
+                // var hellowWorldController = new HellowWorldController();
+                // var hashes = hellowWorldController.Index();
+                //  await context.Response.WriteAsync(hashes);
+                app.UseStatusCodePages("text/plain", "status code page, status code: {0}");
+                app.UseDeveloperExceptionPage();
+                app.UseStaticFiles();
+                app.UseMvcWithDefaultRoute();
 
             });
         }   
