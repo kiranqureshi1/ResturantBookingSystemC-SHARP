@@ -1,0 +1,19 @@
+{
+  "FilePath": "/Users/jojomn/codeclan/Home_Practice/c_sharp_practice/Main_Resturant_BookingSystem/src/src.csproj",
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": null,
+  "Documents": [],
+  "SerializationFormat": "0.1"
+}

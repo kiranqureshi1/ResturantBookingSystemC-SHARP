@@ -1,0 +1,11 @@
+/Users/jojomn/codeclan/Home_Practice/c_sharp_practice/Main_Resturant_BookingSystem/src/bin/Debug/netcoreapp2.2/src.deps.json
+/Users/jojomn/codeclan/Home_Practice/c_sharp_practice/Main_Resturant_BookingSystem/src/bin/Debug/netcoreapp2.2/src.runtimeconfig.json
+/Users/jojomn/codeclan/Home_Practice/c_sharp_practice/Main_Resturant_BookingSystem/src/bin/Debug/netcoreapp2.2/src.runtimeconfig.dev.json
+/Users/jojomn/codeclan/Home_Practice/c_sharp_practice/Main_Resturant_BookingSystem/src/bin/Debug/netcoreapp2.2/src.dll
+/Users/jojomn/codeclan/Home_Practice/c_sharp_practice/Main_Resturant_BookingSystem/src/bin/Debug/netcoreapp2.2/src.pdb
+/Users/jojomn/codeclan/Home_Practice/c_sharp_practice/Main_Resturant_BookingSystem/src/obj/Debug/netcoreapp2.2/src.csprojAssemblyReference.cache
+/Users/jojomn/codeclan/Home_Practice/c_sharp_practice/Main_Resturant_BookingSystem/src/obj/Debug/netcoreapp2.2/src.csproj.CoreCompileInputs.cache
+/Users/jojomn/codeclan/Home_Practice/c_sharp_practice/Main_Resturant_BookingSystem/src/obj/Debug/netcoreapp2.2/src.AssemblyInfoInputs.cache
+/Users/jojomn/codeclan/Home_Practice/c_sharp_practice/Main_Resturant_BookingSystem/src/obj/Debug/netcoreapp2.2/src.AssemblyInfo.cs
+/Users/jojomn/codeclan/Home_Practice/c_sharp_practice/Main_Resturant_BookingSystem/src/obj/Debug/netcoreapp2.2/src.dll
+/Users/jojomn/codeclan/Home_Practice/c_sharp_practice/Main_Resturant_BookingSystem/src/obj/Debug/netcoreapp2.2/src.pdb
