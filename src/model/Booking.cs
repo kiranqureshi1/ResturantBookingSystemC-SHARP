@@ -4,18 +4,22 @@ using Microsoft.EntityFrameworkCore;
 using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace src.model
 {
+    [Table("Booking")]
     public class Booking
     {
-        [Key]
+        [Key, Required]
          public int booking_id{ get; set;}
-        [Required]
+
+        [Required, MaxLength(1024)]
         public String Date { get; set;}
         // public Course course{get; set;}
         // public Customer course{get; set;}
-         [Required]
+
+        [Required, MaxLength(128)]
         public String Name { get; set;}
 
     }

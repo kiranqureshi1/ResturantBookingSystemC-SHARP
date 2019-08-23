@@ -14,7 +14,7 @@ using System.Collections.Generic;
 
 namespace controllers.BookingController
 {
-    [RoutePrefix("api/bookings")]
+    // [RoutePrefix("api/bookings")]
     public class BookingController : Controller
     {
 
