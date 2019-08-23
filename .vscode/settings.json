@@ -1,0 +1,24 @@
+{
+    "sqltools.connections": [
+        {
+            "askForPassword": true,
+            "connectionTimeout": 30,
+            "database": "Main_Resturant_BookingSystem",
+            "dialect": "MySQL",
+            "name": "DefaultConnection",
+            "port": 3306,
+            "server": "127.0.0.1",
+            "username": "myUserName"
+        },
+        {
+            "connectionTimeout": 30,
+            "database": "Main_Resturant_BookingSystem",
+            "dialect": "MySQL",
+            "name": "DefaultConnection",
+            "password": "password",
+            "port": 3306,
+            "server": "127.0.0.1",
+            "username": "myUser"
+        }
+    ]
+}
